@@ -1,4 +1,6 @@
 # how-sustainable-are-you
+Lara Becker, 6074693
+
 A questionnaire on how sustainable you are by determining your sustainability score!
 
 In the project 'how sustainable are you?', I will create a questionnaire that will give you an indication on how sustainable you are for the Earth by giving you a sustainability score.
