@@ -138,7 +138,6 @@ if __name__ == "__main__":
 #Testing - I am checking whether the sustainability score is calculated correctly 
 
 def test_questionnaire():
-    
     assert  calculate_sustainability_score(72500000) == 5 #Average emissions should be a sustainability score of 5
     assert  calculate_sustainability_score(0) == 10 #zero emissions should give a sustainability score of 10
     
