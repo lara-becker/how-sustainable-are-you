@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "how sustainable are you?"
+version = "0.1.0"
+description = "A questionnaire that calculates your sustainability score!"
+authors = [ 
+    {name = "Lara Becker", email = "lnbecker@tudelft.nl"},
+
+dependencies = ["none"]
